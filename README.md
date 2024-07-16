@@ -2,7 +2,7 @@
 
  # Ludovina Magalhaes
 
-# Olá!! Sou uma mulhe rcuriosa e que ama aprende 👋⭐
+# Olá!! Sou uma mulher curiosa e que gosta de aprender 👋⭐
 
  </div align="center">
 
