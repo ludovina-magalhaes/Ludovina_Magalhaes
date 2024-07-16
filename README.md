@@ -1,5 +1,6 @@
 
-<div align="center"># Ludovina_Magalhaes
+
+ # Ludovina_Magalhaes
 ### Olá! Sou uma mulhe rcuriosa e que ama aprende 👋⭐
 
 
