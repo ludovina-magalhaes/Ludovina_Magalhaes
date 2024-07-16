@@ -1,10 +1,10 @@
 <div align="center">
 
- # Ludovina_Magalhaes
+ # Ludovina Magalhaes
  </div align="center">
 ### Olá! Sou uma mulhe rcuriosa e que ama aprende 👋⭐
 
-
+ </div align="center">
 
 
 
