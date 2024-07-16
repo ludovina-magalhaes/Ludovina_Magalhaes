@@ -1,5 +1,6 @@
 
-  <a href="https://github.com/luanaxcardoso">
+
+  <a href="https://github.com/lagmagalhaes">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-vindos!%20Welcome!;%20Analista_de_DaDos;Python%20|%20SQL%20|%20Power BI;&font=Pacifico&center=true&width=650&height=120&color=9370DB&vCenter=true&size=45&duration=4000">
   </a>
 </p>
@@ -42,6 +43,12 @@
 <div>
   <a href = "mailto:lagmagalhaes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ludovina-magalhaes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+
+</div>
+
+
+
  
 
 </div>
