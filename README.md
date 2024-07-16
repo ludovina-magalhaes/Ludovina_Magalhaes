@@ -1,8 +1,8 @@
 <div align="center">
 
  # Ludovina Magalhaes
- </div align="center">
- Olá!! Sou uma mulhe rcuriosa e que ama aprende 👋⭐
+
+# Olá!! Sou uma mulhe rcuriosa e que ama aprende 👋⭐
 
  </div align="center">
 
