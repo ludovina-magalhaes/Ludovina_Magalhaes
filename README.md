@@ -5,6 +5,13 @@
 - 📚 Estou a frequentar E.B.A - Estatística do Básico ao Avançado para aprender estatística e phyton mais profundamente para acrescentar ao meu portfólio!
 
 ##
+<!-- List -->
+<h4>
+    <li> 📌 Ludovna, Portugal </li>
+    <li> 👨‍🎓 Informática de Gestão </li>
+    <li> 🌱 Learning Analise de Dados -Estatística - SQL - Python & Power BI </li>
+    
+</h4>
 
 ### Linguagens:
 <div>
