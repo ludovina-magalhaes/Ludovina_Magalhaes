@@ -1,9 +1,9 @@
 # Ludovina_Magalhaes
 ### Olá! Sou uma mulhe rcuriosa e que ama aprende 👋⭐
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=Bem+vindos!+Welcome!;Full+Stack+Developer;+Python+|+SQL+|Power Bi+|+React)](https://git.io/typing-svg)
+
 <p align="center">
   <a href="https://github.com/luanaxcardoso">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-vindos!%20Welcome!;%20Desenvolvedora+Full+Stack;Python%20|%20SQL%20|%20JavaScript;&font=Pacifico&center=true&width=650&height=120&color=9370DB&vCenter=true&size=45&duration=4000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-vindos!%20Welcome!;%20Analista de Dados;Python%20|%20SQL%20|%20Power BI;&font=Pacifico&center=true&width=650&height=120&color=9370DB&vCenter=true&size=45&duration=4000">
   </a>
 </p>
 
