@@ -7,7 +7,7 @@
 ##
 <!-- List -->
 <h4>
-    <li> 📌 Ludovna, Portugal </li>
+    <li> 📌 Ludovina, Portugal </li>
     <li> 👨‍🎓 Informática de Gestão </li>
     <li> 🌱 Learning Analise de Dados -Estatística - SQL - Python & Power BI </li>
     
