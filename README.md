@@ -58,8 +58,4 @@
 src="https://camo.githubusercontent.com/4dab3efa70dca2c447bd94eab61efd3f9b39004f8a26c3f3413c6805b0b60d35/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d626c61636b3f7374796c653d706c6173746963266c6f676f3d506f7765722d4249" alt="Power BI" data-canonical-src="https://img.shields.io/badge/-Power%20BI-black?style=plastic&amp;logo=Power-BI" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/668d5cf2ee3ebb269a9bd7e821af4cbece1831e2c8d6c0827264f084621de7c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461626c6561752d626c61636b3f7374796c653d706c6173746963266c6f676f3d5461626c656175"><img 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bc14b1df45df1d2e1f46943b95ed2bce63d6ce88febe9da64fd15c15335be967/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d522d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d52"><img 
- <img align="center" alt="Stella-Powerbi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original-wordmark.svg" />
-
- <br>
-
 </div>
