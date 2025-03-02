@@ -8,10 +8,6 @@
 
 
 
-<div align="center">
-
- 
-
 
 ##
 <!-- List -->
@@ -49,3 +45,4 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a090e06406fb4393097132203eb75c34094a197991c23293f9b18127c55797f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d446f636b6572"><img src="https://camo.githubusercontent.com/a090e06406fb4393097132203eb75c34094a197991c23293f9b18127c55797f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d446f636b6572" alt="Docker" data-canonical-src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=Docker" style="max-width: 100%;"></a></p>
 
 </div>
+</div align="center">
